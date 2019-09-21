@@ -1,0 +1,135 @@
+
+Cmder常用快捷键
+
+
+Tab       自动路径补全
+Ctrl+T    建立新页签
+Ctrl+W    关闭页签
+Ctrl+Tab  切换页签
+Alt+F4    关闭所有页签
+Alt+Shift+1 开启cmd.exe
+Alt+Shift+2 开启powershell.exe
+Alt+Shift+3 开启powershell.exe (系统管理员权限)
+Ctrl+1      快速切换到第1个页签
+Ctrl+n      快速切换到第n个页签( n值无上限)
+Alt + enter 切换到全屏状态
+Ctr+r       历史命令搜索
+Tab         自动路径补全
+Ctrl+T      建立新页签
+Ctrl+W      关闭页签
+Ctrl+Tab    切换页签
+Alt+F4      关闭所有页签
+Alt+Shift+1 开启cmd.exe
+Alt+Shift+2 开启powershell.exe
+Alt+Shift+3 开启powershell.exe (系统管理员权限)
+Ctrl+1      快速切换到第1个页签
+Ctrl+n      快速切换到第n个页签( n值无上限)
+Alt + enter 切换到全屏状态
+Ctr+r       历史命令搜索
+Win+Alt+P   开启工具选项视窗
+
+
+连接远端服务器，直接输入 ssh 用户名@服务器地址 即可成功连接服务器
+
+
+CMD命令
+
+
+win + R  --->cmd--->Enter
+
+
+
+
+gpedit.msc-----组策略
+
+sndrec32-------录音机
+
+Nslookup-------IP地址侦测器
+
+explorer-------打开资源管理器
+
+logoff---------注销命令
+
+tsshutdn-------60秒倒计时关机命令
+
+lusrmgr.msc----本机用户和组
+
+services.msc---本地服务设置
+
+oobe/msoobe /a----检查XP是否激活
+
+notepad--------打开记事本
+
+cleanmgr-------垃圾整理
+
+net start messenger----开始信使服务
+
+compmgmt.msc---计算机管理
+
+net stop messenger-----停止信使服务
+
+conf-----------启动netmeeting
+
+dvdplay--------DVD播放器
+
+charmap--------启动字符映射表
+
+diskmgmt.msc---磁盘管理实用程序
+
+calc-----------启动计算器
+
+dfrg.msc-------磁盘碎片整理程序
+
+chkdsk.exe-----Chkdsk磁盘检查
+
+devmgmt.msc--- 设备管理器
+
+regsvr32 /u *.dll----停止dll文件运行
+
+drwtsn32------ 系统医生
+
+rononce -p ----15秒关机
+
+dxdiag---------检查DirectX信息
+
+regedt32-------注册表编辑器
+
+Msconfig.exe---系统配置实用程序
+
+rsop.msc-------组策略结果集
+
+mem.exe--------显示内存使用情况
+
+regedit.exe----注册表
+
+winchat--------XP自带局域网聊天
+
+progman--------程序管理器
+
+winmsd---------系统信息
+
+perfmon.msc----计算机性能监测程序
+
+winver---------检查Windows版本
+
+sfc /scannow-----扫描错误并复原
+
+winipcfg-------IP配置
+
+taskmgr-----任务管理器（2000／xp／2003）
+
+command--------cmd
+
+fsmgmt.msc 共享文件夹
+
+netstat -an----查看端口
+
+osk 屏幕键盘
+
+install.asp----修改注册网页
+
+eventvwr.msc 时间查看器
+
+secpol.msc 本地安全设置
+
+services.msc 服务
